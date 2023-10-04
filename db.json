@@ -1,3 +1,14 @@
 {
-    "clientes" : [] 
+  "clientes": [
+    {
+      "nombre": "Cesar DOM",
+      "apellido": "Leonard",
+      "email": "alexandercandanga90@gmail.com",
+      "telefono": "123-123-1234",
+      "empresa": "ECONET",
+      "puesto": "Instalador",
+      "estado": true,
+      "id": 2
+    }
+  ]
 }
