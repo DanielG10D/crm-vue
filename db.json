@@ -9,6 +9,16 @@
       "puesto": "Instalador",
       "estado": true,
       "id": 2
+    },
+    {
+      "nombre": "Daniel",
+      "apellido": "Guipe",
+      "email": "danielguipe757@gmail.com",
+      "telefono": "123-123-1234",
+      "empresa": "ECONET",
+      "puesto": "Instalador",
+      "estado": 1,
+      "id": 3
     }
   ]
 }
